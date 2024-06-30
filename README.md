@@ -1,2 +1,4 @@
 # AI Financial Planner and Tracker
 
+The Internet is flooded with ML Models trying to predict stock prices , and expense trackers analyzing our expenses , but no one is really trying to analyze how our expenses are growing with inflation , and how a common man should invest to beat the inflation . 
+Here comes our AI Financial Planner & Tracker , or AIFPT in short , to the rescue . We track users’ expenses and analyze the pattern in it , to predict and find the amount of investment required monthly to sustain the user’s living standard all while helping him achieve his financial goals in the process .
